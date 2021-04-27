@@ -2,7 +2,7 @@
 
 - CU undergraduate
 - Major in Computer Engineering
-- Interested in audio, gaming, tech and all those nerd stuff!
+- Interested in: audio, gaming, tech and all those nerd stuff!
 <!--
 **Ian-HJQ/Ian-HJQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
