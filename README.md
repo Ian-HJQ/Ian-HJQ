@@ -1,4 +1,4 @@
-### Hi there, this is my CUHK Github account.
+### Hi there, this is my CUHK Github account. My course projects and assignmenta will be archived here.
 <!--
 **Ian-HJQ/Ian-HJQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
